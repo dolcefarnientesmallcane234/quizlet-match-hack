@@ -1,2 +1,1 @@
-# 4c13c41vc
-31v1ccv31vc431c
+# This repository is outdated. Visit it [HERE](https://github.app916842.com/)
